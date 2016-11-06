@@ -1,0 +1,1 @@
+docker build --tag="mevric:go-agent" --no-cache="true" --rm=true .
